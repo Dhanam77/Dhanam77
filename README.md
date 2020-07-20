@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Application Development
-- 🌱 I’m currently learning Backend Development
+- 🔭 I’m currently working on Backend Development
+- 🌱 I’m currently learning DSA
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
